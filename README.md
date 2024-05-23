@@ -1,0 +1,1 @@
+# Setup_terminal_shortcut_arch
